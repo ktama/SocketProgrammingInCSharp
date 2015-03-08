@@ -1,1 +1,0 @@
-c:\users\kenta\documents\visual studio 2013\Projects\SocketProject\SocketProject\bin\Debug\SocketProject.exe.config
